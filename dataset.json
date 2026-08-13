@@ -1,5 +1,5 @@
 {
-  "emotion_label_order": [0, 1, 2, 3],
+  "emotion_intensity_levels": [0, 1, 2, 3],
   "polarity_label_order": [-2, -1, 0, 1, 2],
   "articles": [
     {"article_id":1,"category":"地域","article_url":"https://news.yahoo.co.jp/articles/b7afd3ac99a40d1d6b70924b10338c8509d49ae6","joy":[1.0,0.0,0.0,0.0],"sadness":[0.466667,0.133333,0.3,0.1],"anticipation":[0.333333,0.2,0.366667,0.1],"surprise":[1.0,0.0,0.0,0.0],"anger":[0.966667,0.033333,0.0,0.0],"disgust":[0.933333,0.066667,0.0,0.0],"fear":[1.0,0.0,0.0,0.0],"trust":[0.966667,0.033333,0.0,0.0],"sentiment":[0.033333,0.466667,0.466667,0.033333,0.0]},
