@@ -36,7 +36,7 @@ DECOPON (**D**istribution of **E**motion from Reader **CO**mments **P**osted on 
  "disgust":[0.766667,0.1,0.1,0.033333],
  "fear":[0.366667,0.333333,0.233333,0.066667],
  "trust":[1.0,0.0,0.0,0.0],
- "sentiment":[0.133333,0.566667,0.233333,0.033333,0.033333]},
+ "polarity_distribution":[0.133333,0.566667,0.233333,0.033333,0.033333]},
   ]
 }
 ```
@@ -45,6 +45,6 @@ DECOPON (**D**istribution of **E**motion from Reader **CO**mments **P**osted on 
 * `category`：カテゴリ
 * `article_url`：ニュース記事の掲載源
 * `joy/sadness/anticipation/surprise/anger/disgust/fear/trust`：`[感情強度0の割合, 感情強度1の割合, 感情強度2の割合, 感情強度3の割合]`
-* `sentiment`：`[強いネガティブの割合, ネガティブの割合, ニュートラルの割合, ポジティブの割合, 強いポジティブの割合]`
+* `polarity_distribution`：`[強いネガティブの割合, ネガティブの割合, ニュートラルの割合, ポジティブの割合, 強いポジティブの割合]`
 
 ## 文献情報
