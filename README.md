@@ -45,7 +45,7 @@ Plutchikの基本8感情（喜び・悲しみ・期待・驚き・怒り・嫌�
 * `article_id`：ニュース記事の識別番号
 * `category`：ニュース記事のカテゴリ
 * `article_url`：ニュース記事の掲載源
-* 各感情（joy, sadness, anticipation, surprise, anger, disgust, fear, trust）：［感情強度0の割合, 感情強度1の割合, 感情強度2の割合, 感情強度3の割合］
+* 各感情（`joy`, `sadness`, `anticipation`, `surprise`, `anger`, `disgust`, `fear`, `trust`）：`［感情強度0の割合, 感情強度1の割合, 感情強度2の割合, 感情強度3の割合］`
 * `polarity`：`[強いネガティブの割合, ネガティブの割合, ニュートラルの割合, ポジティブの割合, 強いポジティブの割合]`
 
 ## 注意事項
